@@ -2,7 +2,7 @@
 - 👀 I’m interested in software engineering, reading, writing, styling hairs,making wigs, watching movies and listening to music.
 - 🌱 I’m currently learning html,css, javascript and video editing.
 - 💞️ I’m looking to collaborate on different projects whether its creating an app or a website.
-- 📫 How to reach me precious_gift18@instagram, precious gift@facebook
+- 📫 How to reach me precious_gift18@instagram, precious gift@facebook, amazuchizurumoke@gmail.com
 - fun fact i love beautiful clothes and fashion designs
 
 <!---
