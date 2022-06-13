@@ -2,7 +2,7 @@
 - 👀 I’m interested in front-end webdevelopment.
 - 🌱 I’m currently learning html,css, javascript and video editing.
 - 💞️ I’m looking to collaborate on different projects whether its creating an app or a website.
-- 📫 How to reach me @precious_gift18 - instagram.Com, precious gift@facebook, amazuchizurumoke@gmail.com
+- 📫 How to reach me amazuchizurumoke@gmail.com
 - fun fact i love beautiful clothes and fashion designs
 
 <!---
