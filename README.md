@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @PreciousAmazu
-- 👀 I’m interested in front-end webdevelopment.
-- 🌱 I’m currently learning html,css, javascript and video editing.
-- 💞️ I’m looking to collaborate on different projects whether its creating an app or a website.
+- 👀 I’m interested in full stack development.
+- 🌱 I’m a Software Engineering Graduate open to a permanent position.
+- 💞️ I’m looking to collaborate on different projects.
 - 📫 How to reach me amazuchizurumoke@gmail.com
-- fun fact i love beautiful clothes and fashion designs
 
 <!---
 PreciousAmazu/PreciousAmazu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
